@@ -45,3 +45,7 @@ venv/
 *.zip
 *.gz
 *.sql.gz
+
+# Excluded from this public repository.
+/scripts/
+/tests/
