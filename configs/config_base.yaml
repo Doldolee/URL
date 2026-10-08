@@ -1,0 +1,8 @@
+bcq_threshold : 0.3
+cql_alpha : 1.0 # 0.001(heparin), 1.0(sepsis)
+discount : 0.98
+optimizer : "Adam"
+tau : 0.005
+seed : 42
+ope_policy_mode : greedy
+ope_fqe_epochs : 100

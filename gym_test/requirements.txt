@@ -1,0 +1,13 @@
+# Use a separate environment; the clinical project needs no dependency changes.
+gymnasium==1.0.0
+numpy==2.0.2
+torch==2.8.0
+scikit-learn==1.6.1
+joblib==1.4.2
+scipy==1.13.1
+matplotlib==3.9.4
+# Python 3.9 compatibility dependencies for the pinned Gymnasium version.
+importlib_metadata==8.7.0
+zipp==3.23.0
+cloudpickle==3.1.1
+Farama-Notifications==0.0.4

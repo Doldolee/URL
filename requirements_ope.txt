@@ -1,0 +1,9 @@
+# Versions used for the 2026-10-07 CPU OPE rerun (Python 3.9.6).
+# scripts/train_policy.py policy training additionally requires the project's mlflow and PyYAML.
+numpy==2.0.2
+torch==2.8.0
+scikit-learn==1.6.1
+scipy==1.13.1
+joblib==1.4.2
+threadpoolctl==3.7.0
+matplotlib==3.9.4

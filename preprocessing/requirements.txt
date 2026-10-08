@@ -1,0 +1,11 @@
+pandas
+tqdm
+fancyimpute
+pyprind
+seaborn
+psycopg2-binary
+jupyter
+# Optional mixed clinical-note notebook cells:
+transformers
+huggingface-hub
+evaluate
